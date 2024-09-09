@@ -24,8 +24,6 @@
 # Hands-On Exploration:
 
 
-https://github.com/user-attachments/assets/2c3b8de9-1ced-4c91-aa15-f58dfd92c399
-
 
 *  Case Study Selection:
 
@@ -39,22 +37,24 @@ https://github.com/user-attachments/assets/2c3b8de9-1ced-4c91-aa15-f58dfd92c399
   
 * Challenges Solved: The AI system must understand the environment, traffic laws, and road conditions to drive safely. Knowledge representation allows the car to map its surroundings and apply logical rules for safe driving.
 
+  https://github.com/user-attachments/assets/2c3b8de9-1ced-4c91-aa15-f58dfd92c399
+
   #   Knowledge Representation Model
 
 
    * Model for Traffic Light Interaction: Present a semantic network with nodes for traffic lights and cars, linked by logical rules for when the car should stop or go. Use a diagram to illustrate how the AI processes traffic signals and makes decisions.
  
-**Conclusion**
+# **Conclusion**
 
 **Knowledge representation** is essential for AI to interpret and respond to the world. It enables systems like autonomous cars to make sense of their environment and navigate safely.
  
 **Reflection:** Through this project, you learned how different forms of knowledge representation help AI make decisions, especially in real-world applications like self-driving cars.
 
-Extension Activity
+# Extension Activity
 
 **Probabilistic Graphical Models:** These models represent uncertainty in AI systems, combining graph theory and probability theory to handle uncertain knowledge. For example, in predictive systems, they can help determine likely outcomes based on incomplete or uncertain data (e.g., predicting traffic flow for autonomous vehicles).
 
-***Impact on Future AI:** Probabilistic models are valuable in environments where not all information is known, allowing AI to make more accurate predictions. They could play a major role in enhancing decision-making in autonomous systems, medical diagnosis, and robotics.
+* **Impact on Future AI:** Probabilistic models are valuable in environments where not all information is known, allowing AI to make more accurate predictions. They could play a major role in enhancing decision-making in autonomous systems, medical diagnosis, and robotics.
 
 **Obabilistic Graphical Models:** These models represent uncertainty in AI systems, combining graph theory and probability theory to handle uncertain knowledge. For example, in predictive systems, they can help determine likely outcomes based on incomplete or uncertain data (e.g., predicting traffic flow for autonomous vehicles).
 Impact on Future AI: Probabilistic models are valuable in environments where not all information is known, allowing AI to make more accurate predictions. They could play a major role in enhancing decision-making in autonomous systems, medical diagnosis, and robotics.
